@@ -1,2 +1,2 @@
-print("pusty")
+
 print("modyfikacja")
